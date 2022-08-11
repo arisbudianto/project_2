@@ -2,3 +2,5 @@
 
 
 #ini percobaan push read.me
+
+##ini percobaan dari aris local
